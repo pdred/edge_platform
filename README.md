@@ -18,6 +18,7 @@ Technical Demo needs to emphasize ACM and demonstrate Thanos/Grafana and Visual 
 Limitations that need to be addressed if we are to use RHPDS:
 Observability feature requires access to cloud storage:
 https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.1/html/observing_environments/observing-environments#enabling-observability
+---
 
 The instructions only exist for Amazon S3, GCS, or Azure storage account - none of those things seem to be obtainable through RHPDS.
 ---
