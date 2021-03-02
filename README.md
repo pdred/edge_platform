@@ -21,6 +21,7 @@ https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_managemen
 
 The instructions only exist for Amazon S3, GCS, or Azure storage account - none of those things seem to be obtainable through RHPDS.
 ---
+[Offering](https://docs.google.com/document/d/17vC0ARshhY8pG_P-O71Bf9DBpfQRwGGgTD3nqp-WDms/edit?usp=sharing)
 
 [Team Notes](https://docs.google.com/document/d/14t3bLreBMkQqthOOU_WCgEZG7U0GsI4nF_WTbYciBdA/edit#heading=h.6n8vkchonieq)
 
